@@ -17,15 +17,8 @@ Example: [Live Demo](https://java-script-calculator-ashen.vercel.app/)
 ## 🚀 Technologies Used
 
 - React (Functional components and hooks)
-- JavaScript for logic and evaluation
-
-
-## 🚀 Technologies Used
-
-- React (functional components and hooks)
-- JavaScript (ES6+)
-- CSS (for styling and animations)
-- Fetch API for HTTP requests
+- JavaScript (ES6+) for logic and evaluation
+- CSS (for styling)
 
 
 ## 🔧 Installation & Setup
