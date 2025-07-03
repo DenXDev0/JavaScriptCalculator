@@ -14,7 +14,7 @@ Example: [Live Demo](https://java-script-calculator-ashen.vercel.app/)
 - Handles calculation errors gracefully
 
 
-## ⚙️ Technologies Used
+## 🚀 Technologies Used
 
 - React (Functional components and hooks)
 - JavaScript for logic and evaluation
